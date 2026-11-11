@@ -1,0 +1,171 @@
+{
+	"Ring": {
+		"title": "Gemstone Rings",
+		"description": "A ring is more than just adornment — it’s a cherished symbol, beloved by women always and embraced by men alike. No celebration feels complete without its graceful presence.",
+		"tabs": {
+			"About": {
+				"heading": "About Gemstone Rings",
+				"content": [
+					{
+						"title": "Luxury Tone",
+						"text": "Indulge in elegance with our luxurious gemstone rings, where exceptional craftsmanship meets the rare beauty of natural stones. Every ring is a symbol of sophistication — from the vibrant fire of rubies to the serene depth of sapphires. Crafted for those who appreciate refined beauty, our gemstone rings add a timeless touch of opulence to any look."
+					},
+					{
+						"title": "Healing Properties Focus",
+						"text": "More than just beautiful — our gemstone rings carry the energy of nature. Each gemstone is known for its unique healing and spiritual benefits. Amethyst for calm, citrine for positivity, and rose quartz for love. Whether worn for style or intention, these rings are powerful companions in your personal journey."
+					},
+					{
+						"title": "Zodiac/Spiritual Symbolism",
+						"text": "Designed with meaning, our gemstone rings connect deeply with zodiac signs and spiritual energies. Each stone reflects the essence of the wearer — like emerald for Taurus, garnet for Capricorn, and moonstone for Cancer. A perfect gift for cosmic connection or self-expression through celestial elegance."
+					}
+				]
+			},
+			"Meaning": {
+				"heading": "Meaning",
+				"text": "Gemstone rings hold deep symbolic meaning, representing love, strength, spirituality, and personal growth. Each gemstone carries unique significance for the wearer."
+			},
+			"Buyer Guide": {
+				"heading": "Buyer Guide",
+				"text": "Learn how to choose the right gemstone ring based on cut, clarity, carat weight, and durability. This guide helps you make an informed purchase."
+			},
+			"Quality & Price": {
+				"heading": "Quality & Price",
+				"text": "Discover how gemstone quality affects pricing. High-quality stones with vibrant colors and clarity offer greater value and elegance."
+			},
+			"FAQ": {
+				"heading": "FAQ",
+				"text": "Get answers to common questions about gemstone care, authenticity, and best practices for daily wear."
+			}
+		}
+	},
+	"Pendant": {
+		"title": "Elegant Pendants",
+		"description": "Pendants bring out your personality and charm, perfectly complementing your style for any occasion.",
+		"tabs": {
+			"About": {
+				"heading": "About Pendants",
+				"text": "Pendants are versatile jewelry pieces that reflect your style and personality. Perfect for any occasion, they can be elegant, minimalist, or bold statement accessories."
+			},
+			"Meaning": {
+				"heading": "Meaning",
+				"text": "Pendants often symbolize love, protection, or faith. Many cultures believe gemstones in pendants carry healing and spiritual properties."
+			},
+			"Buyer Guide": {
+				"heading": "Buyer Guide",
+				"text": "Consider chain length, pendant material, and gemstone quality before making a purchase to ensure it suits your style and lasts long."
+			},
+			"Quality & Price": {
+				"heading": "Quality & Price",
+				"text": "The value of a pendant depends on the gemstone quality and the craftsmanship of its setting."
+			},
+			"FAQ": {
+				"heading": "FAQ",
+				"text": "Learn how to care for pendants and choose the right chain for different occasions."
+			}
+		}
+	},
+	"Bracelet": {
+		"title": "Stylish Bracelets",
+		"description": "Bracelets are timeless pieces that elevate your look and add elegance to every outfit.",
+		"tabs": {
+			"About": {
+				"heading": "About Bracelets",
+				"text": "Bracelets are stylish and versatile, crafted to complement everyday outfits or special occasions. They symbolize elegance and can even hold cultural or spiritual significance."
+			},
+			"Meaning": {
+				"heading": "Meaning",
+				"text": "Bracelets often represent friendship, love, or tradition. They can also be worn as a charm for luck and prosperity."
+			},
+			"Buyer Guide": {
+				"heading": "Buyer Guide",
+				"text": "Choose the perfect bracelet by considering material, design, durability, and size for comfort and longevity."
+			},
+			"Quality & Price": {
+				"heading": "Quality & Price",
+				"text": "High-quality bracelets are crafted from durable materials like gold or sterling silver, ensuring they last for years."
+			},
+			"FAQ": {
+				"heading": "FAQ",
+				"text": "Find out how to care for your bracelet and maintain its shine over time."
+			}
+		}
+	},
+	"Earring": {
+		"title": "Beautiful Earrings",
+		"description": "Earrings are essential accessories, highlighting grace and adding the perfect finishing touch.",
+		"tabs": {
+			"About": {
+				"heading": "About Earrings",
+				"text": "Earrings are timeless accessories that enhance facial features and add elegance to your overall look. They are available in various styles for every occasion."
+			},
+			"Meaning": {
+				"heading": "Meaning",
+				"text": "Earrings symbolize beauty, femininity, and style. Certain gemstones are believed to bring positive energy when worn as earrings."
+			},
+			"Buyer Guide": {
+				"heading": "Buyer Guide",
+				"text": "Select earrings based on face shape, metal type, and comfort for long wear without irritation."
+			},
+			"Quality & Price": {
+				"heading": "Quality & Price",
+				"text": "Pricing depends on gemstone clarity, cut, and the metal used in the earring design."
+			},
+			"FAQ": {
+				"heading": "FAQ",
+				"text": "Get answers about caring for earrings and preventing common issues like tarnishing or loose clasps."
+			}
+		}
+	},
+	"Necklace": {
+		"title": "Charming Necklaces",
+		"description": "Necklaces symbolize beauty and tradition, making every moment more special.",
+		"tabs": {
+			"About": {
+				"heading": "About Necklaces",
+				"text": "Necklaces are statement pieces that bring elegance and charm. They can be bold, minimal, or traditional, suitable for any celebration or casual wear."
+			},
+			"Meaning": {
+				"heading": "Meaning",
+				"text": "Necklaces often represent love and connection, making them perfect as meaningful gifts for loved ones."
+			},
+			"Buyer Guide": {
+				"heading": "Buyer Guide",
+				"text": "Consider chain type, length, and gemstone selection to ensure the necklace complements your outfit and style."
+			},
+			"Quality & Price": {
+				"heading": "Quality & Price",
+				"text": "The price of a necklace depends on the metal, gemstone quality, and overall craftsmanship."
+			},
+			"FAQ": {
+				"heading": "FAQ",
+				"text": "Learn how to clean and store necklaces to maintain their shine and durability."
+			}
+		}
+	},
+	"Brooch": {
+		"title": "Classic Brooches",
+		"description": "Brooches add a vintage charm and a touch of sophistication to your attire, perfect for special occasions.",
+		"tabs": {
+			"About": {
+				"heading": "About Brooches",
+				"text": "Brooches are timeless accessories that elevate your outfit with elegance. They can be used as decorative pins or functional clasps, adding personality to your style."
+			},
+			"Meaning": {
+				"heading": "Meaning",
+				"text": "Brooches symbolize elegance, individuality, and heritage, often passed down as family heirlooms or gifted to mark special occasions."
+			},
+			"Buyer Guide": {
+				"heading": "Buyer Guide",
+				"text": "When buying a brooch, consider its design, material, and fastening type to ensure comfort and durability."
+			},
+			"Quality & Price": {
+				"heading": "Quality & Price",
+				"text": "The cost of a brooch depends on the metal type, gemstones used, and the intricacy of the craftsmanship."
+			},
+			"FAQ": {
+				"heading": "FAQ",
+				"text": "Learn tips for wearing brooches in versatile ways and how to care for them to maintain their shine and longevity."
+			}
+		}
+	}
+}

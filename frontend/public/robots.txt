@@ -1,0 +1,25 @@
+# Robots.txt for GemRishi (https://gemrishi.com)
+User-agent: *
+Allow: /
+Allow: /gemstone
+Allow: /gemstone/*
+Allow: /jewellery
+Allow: /jewellery/*
+Allow: /products/*
+Allow: /suggest
+Allow: /aboutUs
+Allow: /contactUs
+Allow: /gemstone-buy-guide
+
+# Disallow non-public customer / transactional paths
+Disallow: /shipping/
+Disallow: /payment/
+Disallow: /review_And/
+Disallow: /personal/
+Disallow: /orders/
+Disallow: /cancel/
+Disallow: /use-razorpay
+Disallow: /api/
+
+# Sitemap Location
+Sitemap: https://gemrishi.com/sitemap.xml

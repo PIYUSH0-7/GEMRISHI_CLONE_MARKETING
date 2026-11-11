@@ -1,0 +1,34 @@
+# GemRishi
+
+> GemRishi is a premier e-commerce platform offering 100% natural, laboratory-certified Vedic gemstones and fine astrology jewellery with worldwide insured shipping and astrological consultation.
+
+GemRishi has a five-generation legacy since 1904, providing authentic, untreated, and lab-certified gemstones backed by reputed gemological laboratories such as GIA, IGI, and government-recognized testing centers.
+
+## Primary Collections
+
+- [Natural Gemstones](https://gemrishi.com/gemstone): Complete inventory of certified natural Vedic astrological gemstones.
+- [Yellow Sapphire (Pukhraj)](https://gemrishi.com/gemstone/yellow-sapphire): Natural unheated Ceylon and Burma yellow sapphires for Jupiter (Brihaspati).
+- [Blue Sapphire (Neelam)](https://gemrishi.com/gemstone/blue-sapphire): Certified Kashmir, Ceylon, and Burma blue sapphires for Saturn (Shani).
+- [Emerald (Panna)](https://gemrishi.com/gemstone/emerald): Natural Colombian and Zambian emeralds for Mercury (Budh).
+- [Ruby (Manik)](https://gemrishi.com/gemstone/ruby): Certified natural Burma and Mozambique rubies for Sun (Surya).
+- [Red Coral (Moonga)](https://gemrishi.com/gemstone/coral): Authentic Italian and Mediterranean red corals for Mars (Mangal).
+- [Natural Pearl (Moti)](https://gemrishi.com/gemstone/pearl): Certified Basra and South Sea natural pearls for Moon (Chandra).
+- [Hessonite (Gomed)](https://gemrishi.com/gemstone/hessonite): Natural Ceylon hessonite garnets for Rahu.
+- [Cat's Eye (Lehsuniya)](https://gemrishi.com/gemstone/cats-eye): Natural chrysoberyl cat's eye gemstones for Ketu.
+- [Fine Jewellery](https://gemrishi.com/jewellery): Custom astrological rings, pendants, and bracelets crafted in gold and silver.
+
+## Guides & Tools
+
+- [Free Astrological Recommendation](https://gemrishi.com/suggest): Personalized Vedic gemstone consultation based on birth chart / Kundli.
+- [Gemstone Buying Guide](https://gemrishi.com/gemstone-buy-guide): Expert handbook on evaluating color, clarity, origin, and certifications.
+- [Carat to Ratti Converter](https://gemrishi.com/carat-to-ratti-converter): Precision weight conversion calculator for Vedic astrology.
+- [Lab Certification Verification](https://gemrishi.com/certificate): Information on lab reports and third-party authenticity tests.
+
+## Company & Policies
+
+- [About Us](https://gemrishi.com/aboutUs): GemRishi history, heritage, and five generations of gemstone craftsmanship since 1904.
+- [Contact Support](https://gemrishi.com/contactUs): Customer support, WhatsApp hotline, and showroom locations.
+- [Shipping Policy](https://gemrishi.com/shipping): Free insured shipping across India and global delivery details.
+- [Return Policy](https://gemrishi.com/return-policy): 10-day hassle-free return and replacement policy.
+- [Terms & Conditions](https://gemrishi.com/terms): Official terms of service.
+- [Privacy Policy](https://gemrishi.com/privacy): User data protection and privacy policy.

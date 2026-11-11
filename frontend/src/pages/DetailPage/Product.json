@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "category": "Gemstone",
+      "CategoryImg" : "/assets/GemstoneP.svg",
+      "items": [
+        { "image": "/assets/BlueSapphire.svg", "productName": "Blue Sapphire", "origin": "Sri Lanka (Ceylon)", "price": "Rs. 28,100" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Emerald", "origin": "Colombia", "price": "Rs. 35,500" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Ruby", "origin": "Burma", "price": "Rs. 42,000" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Yellow Sapphire", "origin": "Thailand", "price": "Rs. 30,000" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Cat’s Eye", "origin": "Sri Lanka", "price": "Rs. 18,200" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Hessonite", "origin": "India", "price": "Rs. 14,500" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Garnet", "origin": "Tanzania", "price": "Rs. 22,300" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Amethyst", "origin": "Brazil", "price": "Rs. 9,800" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Topaz", "origin": "Pakistan", "price": "Rs. 11,200" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Peridot", "origin": "Egypt", "price": "Rs. 15,600" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Aquamarine", "origin": "Madagascar", "price": "Rs. 28,500" },
+        { "image": "/assets/BlueSapphire.svg", "productName": "Spinel", "origin": "Myanmar", "price": "Rs. 19,700" }
+        
+      ]
+    },
+    {
+      "category": "Ring",
+      "CategoryImg" : "/assets/RingP.svg",
+      "items": [
+        { "image": "/assets/Ring.svg", "productName": "Diamond Ring", "origin": "India", "price": "Rs. 55,000" },
+        { "image": "/assets/Ring.svg", "productName": "Gold Ring", "origin": "Dubai", "price": "Rs. 25,000" },
+        { "image": "/assets/Ring.svg", "productName": "Sapphire Ring", "origin": "Sri Lanka", "price": "Rs. 32,500" },
+        { "image": "/assets/Ring.svg", "productName": "Ruby Ring", "origin": "Burma", "price": "Rs. 45,600" },
+        { "image": "/assets/Ring.svg", "productName": "Emerald Ring", "origin": "Colombia", "price": "Rs. 50,000" },
+        { "image": "/assets/Ring.svg", "productName": "Silver Ring", "origin": "India", "price": "Rs. 12,000" },
+        { "image": "/assets/Ring.svg", "productName": "Platinum Ring", "origin": "South Africa", "price": "Rs. 85,000" },
+        { "image": "/assets/Ring.svg", "productName": "Rose Gold Ring", "origin": "Turkey", "price": "Rs. 28,000" },
+        { "image": "/assets/Ring.svg", "productName": "Opal Ring", "origin": "Australia", "price": "Rs. 19,000" },
+        { "image": "/assets/Ring.svg", "productName": "Pearl Ring", "origin": "Japan", "price": "Rs. 15,000" },
+        { "image": "/assets/Ring.svg", "productName": "Garnet Ring", "origin": "Tanzania", "price": "Rs. 22,000" },
+        { "image": "/assets/Ring.svg", "productName": "Tourmaline Ring", "origin": "Mozambique", "price": "Rs. 26,500" }
+      ]
+    },
+    {
+      "category": "Pendant",
+      "CategoryImg" : "/assets/PendantP.svg",
+      "items": [
+        { "image": "/assets/Necklace.svg", "productName": "Pearl Pendant", "origin": "Japan", "price": "Rs. 18,500" },
+        { "image": "/assets/Necklace.svg", "productName": "Sapphire Pendant", "origin": "Sri Lanka", "price": "Rs. 32,000" },
+        { "image": "/assets/Necklace.svg", "productName": "Ruby Pendant", "origin": "Burma", "price": "Rs. 38,000" },
+        { "image": "/assets/Necklace.svg", "productName": "Emerald Pendant", "origin": "Colombia", "price": "Rs. 42,500" },
+        { "image": "/assets/Necklace.svg", "productName": "Diamond Pendant", "origin": "India", "price": "Rs. 65,000" },
+        { "image": "/assets/Necklace.svg", "productName": "Opal Pendant", "origin": "Australia", "price": "Rs. 22,000" },
+        { "image": "/assets/Necklace.svg", "productName": "Tourmaline Pendant", "origin": "Mozambique", "price": "Rs. 28,500" },
+        { "image": "/assets/Necklace.svg", "productName": "Amethyst Pendant", "origin": "Brazil", "price": "Rs. 16,800" },
+        { "image": "/assets/Necklace.svg", "productName": "Spinel Pendant", "origin": "Myanmar", "price": "Rs. 21,500" },
+        { "image": "/assets/Necklace.svg", "productName": "Topaz Pendant", "origin": "Pakistan", "price": "Rs. 14,900" },
+        { "image": "/assets/Necklace.svg", "productName": "Citrine Pendant", "origin": "Spain", "price": "Rs. 18,600" },
+        { "image": "/assets/Necklace.svg", "productName": "Zircon Pendant", "origin": "Cambodia", "price": "Rs. 20,200" }
+      ]
+    },
+    {
+      "category": "Bracelet",
+      "CategoryImg" : "/assets/BraceletP.svg",
+      "items": [
+        { "image": "/assets/Bracelets.svg", "productName": "Gold Bracelet", "origin": "India", "price": "Rs. 40,000" },
+        { "image": "/assets/Bracelets.svg", "productName": "Silver Bracelet", "origin": "Italy", "price": "Rs. 15,000" },
+        { "image": "/assets/Bracelets.svg", "productName": "Diamond Bracelet", "origin": "South Africa", "price": "Rs. 75,000" },
+        { "image": "/assets/Bracelets.svg", "productName": "Ruby Bracelet", "origin": "Burma", "price": "Rs. 55,200" },
+        { "image": "/assets/Bracelets.svg", "productName": "Emerald Bracelet", "origin": "Colombia", "price": "Rs. 60,000" },
+        { "image": "/assets/Bracelets.svg", "productName": "Sapphire Bracelet", "origin": "Sri Lanka", "price": "Rs. 58,300" },
+        { "image": "/assets/Bracelets.svg", "productName": "Opal Bracelet", "origin": "Australia", "price": "Rs. 29,700" },
+        { "image": "/assets/Bracelets.svg", "productName": "Tourmaline Bracelet", "origin": "Mozambique", "price": "Rs. 34,500" },
+        { "image": "/assets/Bracelets.svg", "productName": "Amethyst Bracelet", "origin": "Brazil", "price": "Rs. 22,800" },
+        { "image": "/assets/Bracelets.svg", "productName": "Spinel Bracelet", "origin": "Myanmar", "price": "Rs. 27,500" },
+        { "image": "/assets/Bracelets.svg", "productName": "Pearl Bracelet", "origin": "Japan", "price": "Rs. 18,900" },
+        { "image": "/assets/Bracelets.svg", "productName": "Topaz Bracelet", "origin": "Pakistan", "price": "Rs. 20,100" }
+      ]
+    },
+    {
+      "category": "Brooch",
+      "CategoryImg" : "/assets/BraceletP.svg",
+      "items": [
+        { "image": "/assets/Ring.svg", "productName": "Diamond Brooch", "origin": "France", "price": "Rs. 75,000" },
+        { "image": "/assets/Ring.svg", "productName": "Emerald Brooch", "origin": "Brazil", "price": "Rs. 50,000" },
+        { "image": "/assets/Ring.svg", "productName": "Ruby Brooch", "origin": "Burma", "price": "Rs. 60,500" },
+        { "image": "/assets/Ring.svg", "productName": "Sapphire Brooch", "origin": "Sri Lanka", "price": "Rs. 55,300" },
+        { "image": "/assets/Ring.svg", "productName": "Pearl Brooch", "origin": "Japan", "price": "Rs. 28,000" },
+        { "image": "/assets/Ring.svg", "productName": "Opal Brooch", "origin": "Australia", "price": "Rs. 32,500" },
+        { "image": "/assets/Ring.svg", "productName": "Tourmaline Brooch", "origin": "Mozambique", "price": "Rs. 38,000" },
+        { "image": "/assets/Ring.svg", "productName": "Spinel Brooch", "origin": "Myanmar", "price": "Rs. 40,200" },
+        { "image": "/assets/Ring.svg", "productName": "Topaz Brooch", "origin": "Pakistan", "price": "Rs. 24,500" },
+        { "image": "/assets/Ring.svg", "productName": "Citrine Brooch", "origin": "Spain", "price": "Rs. 22,700" },
+        { "image": "/assets/Ring.svg", "productName": "Garnet Brooch", "origin": "Tanzania", "price": "Rs. 26,300" },
+        { "image": "/assets/Ring.svg", "productName": "Zircon Brooch", "origin": "Cambodia", "price": "Rs. 29,800" }
+      ]
+    }
+  ]
+}
